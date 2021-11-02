@@ -1,0 +1,10 @@
+table{
+  table-layout: fixed;
+  width: 75%;
+}
+.tr {
+  background-color: #c76939 ;
+  font-size: 24px;
+  color: white;
+  border-width: 0px;
+}
